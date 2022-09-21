@@ -7,7 +7,9 @@ import java.util.Iterator;
 public class WithListIterator1 {
 
   public static void main(String[] args) {
+	
 
+    //added student list
     List<Student> studentList1 = new ArrayList<Student>();
     Student s1 = new Student("Sujit",1);
     Student s2 = new Student("Siddharth",2);
